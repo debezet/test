@@ -9,3 +9,5 @@ NANO LOL
 APTANA LOL
 
 jestę testę
+
+JESTE TESTE Z NANO
